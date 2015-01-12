@@ -11,7 +11,7 @@ A data repository for data surrounding fast food nutrition and ingredients. You 
  - [ ] Taco Bell
  - [ ] Chipotles
  - [ ] Applebees
- - [ ] Burger King
+ - [x] Burger King
 
  
 
