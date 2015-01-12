@@ -1,0 +1,2370 @@
+
+
+
+
+
+
+
+	
+
+	
+		
+			
+		
+
+		
+			
+		
+
+		
+			
+		
+		
+		
+			
+		
+		
+        	
+        
+        
+        
+		
+        
+                                                        
+                
+        
+		
+			
+		
+		
+				
+			
+			
+					
+		
+		
+				
+		
+		
+				
+		
+		
+				
+		
+		
+				
+		
+		
+				
+		
+		
+				
+		
+		
+				
+		
+		
+				
+		
+		
+				
+		
+		
+				
+		
+		
+				
+		
+	
+		
+		
+	
+
+
+
+
+	
+
+ 
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6 ie ieold"> <![endif]-->
+<!--[if IE 7 ]> <html lang="en" class="no-js ie7 ie ieold"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en" class="no-js ie8 ie ieold"> <![endif]-->
+<!--[if IE 9 ]> <html lang="en" class="no-js ie9 ie"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app13.us.archive.org";archive_analytics.values.server_ms=180;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+	<meta charset="utf-8">
+	<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+
+
+
+
+<script type="text/javascript">
+	jsProperties = new Object();
+	jsProperties.locationPageURL = '/en-us/Location';
+	jsProperties.familiesjsonURL="/cs/Satellite?pagename=WEN/WEN_Module_C/WEN/WEN_ExpandNutrition/familiesjson";
+	jsProperties.productsjsonURL="/cs/Satellite?pagename=WEN/WEN_Module_C/WEN/WEN_ExpandNutrition/productsjson";
+	jsProperties.componentInfoURL="/cs/Satellite?pagename=WEN/WEN_Module_C/WEN/WEN_ExpandNutrition/ComponentInfo";
+	jsProperties.nutrientInfoURL="/cs/Satellite?pagename=WEN/Ajax/NutrientInfo";
+	jsProperties.redesign='/redesign/wendys/'
+	jsProperties.serviceUrl= '/web/20130616125944/http://services.wendys.com/';
+	jsProperties.productServiceUrl='/web/20130616125944/http://services.wendys.com';
+	jsProperties.lang = 'en';
+	jsProperties.country = 'US';
+	
+	//Following are default geolocation co-ordinates (Columbus, OH)
+	jsProperties.userPostal = '43016';
+	jsProperties.userLat = "39.96117550";
+	jsProperties.userLong = "-82.99879419";
+	jsProperties.userDefaultCity = "Columbus";
+	jsProperties.userDefaultState = "OH";
+	jsProperties.isUserGeoLocated = true;
+</script>
+
+
+	
+	
+		  	
+		    
+			 
+				
+			
+			
+					
+			
+	
+
+
+
+
+
+
+ 
+    
+	<link rel="shortcut icon" type="image/x-icon" href="/web/20130616125944im_/http://www.wendys.com/redesign/wendys/images/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" href="/redesign/wendys/images/apple-touch-icon.png" />
+	<link href="/web/20130616125944cs_/http://www.wendys.com/redesign/wendys/css/main.css" rel="Stylesheet" type="text/css" />
+	<link href="/web/20130616125944cs_/http://www.wendys.com/redesign/wendys/css/print.css" rel="Stylesheet" type="text/css" media="print" />
+	<link href="/web/20130616125944cs_/http://www.wendys.com/redesign/wendys/css/flexslider.css" rel="Stylesheet" type="text/css" />
+
+	
+	
+    
+    
+    
+    
+    
+    
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 	    <link href="/web/20130616125944cs_/http://www.wendys.com/redesign/wendys/css/utility.css" rel="Stylesheet" type="text/css" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	 
+	<!-- Don't edit the below code -->
+	<!-- Page specific javascripts are added to javascript element -->  
+	
+	
+	
+	<script src="/web/20130616125944js_/http://www.wendys.com/redesign/wendys/javascripts/picturefill.js" type="text/javascript"></script>
+	
+	<script src="/web/20130616125944js_/http://www.wendys.com/redesign/wendys/javascripts/modernizr.js" type="text/javascript"></script>
+
+	<!-- Retrieving meta info from Page -->
+	
+		  	
+		    
+		    
+		    
+			 
+				
+			
+			
+					
+			
+	
+
+
+
+
+
+	
+	
+
+
+
+				
+
+<!-- URL for the current page -->
+
+	 
+					
+						
+					
+						 
+					 
+					
+			       
+					
+					
+				   
+	               
+	               
+             
+             
+
+
+<!-- Meta Information -->
+	<title>404 Error</title>
+	<meta property="og:title" content="404 Error" /><!-- DEVELOPER NOTE: CHANGE THIS TO MATCH THE TITLE OF THIS PAGE -->
+	<meta property="og:type" content="restaurant" /><!-- THIS SHOULD BE CONSTANT  -->
+	<meta property="og:description" content="404 Error" /><!-- THIS WILL BE DIFFERENT ON EACH PAGE. IT WILL BE A DESCRIPTION OF THE PAGE  -->
+	<meta property="og:url" content="http://www.wendys.com/en-us/404+Error+Page" /><!-- DEVELOPER NOTE: CHANGE THIS TO MATCH THE URL OF THIS PAGE -->
+	<meta property="og:image" content="http://www.wendys.com/ccurl/367/174/og_image.png" /><!-- og_image.png IS DEFAULT, BUT THERE ARE SOME PAGES WHERE THIS SHOULD CHANGE  -->
+	<meta property="og:site_name" content="Wendy's" /><!-- THIS SHOULD BE CONSTANT  -->
+	<meta property="fb:app_id" content="113385204488" /><!-- THIS SHOULD BE CONSTANT  -->
+
+
+
+
+</head>
+
+<body>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.wendys.com/food/pdf/us/nutrition.pdf";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "16";
+var displayMonth = "Jun";
+var displayYear = "2013";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.wendys.com/food/pdf/us/nutrition.pdf" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20130616125944" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20130202210856/http://www.wendys.com/food/pdf/us/nutrition.pdf" title="2 Feb 2013">FEB</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 12:59:44 Jun 16, 2013">JUN</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20130824062057/http://www.wendys.com/food/pdf/us/nutrition.pdf" title="24 Aug 2013"><strong>AUG</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20130616125941/http://wendys.com/food/pdf/us/nutrition.pdf" title="12:59:41 Jun 16, 2013"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 12:59:44 Jun 16, 2013">16</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20130824062057/http://www.wendys.com/food/pdf/us/nutrition.pdf" title="6:20:57 Aug 24, 2013"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20120509211023/http://wendys.com/food/pdf/us/nutrition.pdf" title="9 May 2012"><strong>2012</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 12:59:44 Jun 16, 2013">2013</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20140630230505/http://www.wendys.com/food/pdf/us/nutrition.pdf" title="30 Jun 2014"><strong>2014</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20130616125944*/http://www.wendys.com/food/pdf/us/nutrition.pdf" title="See a list of every capture for this URL">229 captures</a>
+           <div class="r" title="Timespan for captures of this URL">16 Mar 06 - 10 Jan 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:001902421058_2007:-1:610116333111_2008:-1:131132201202_2009:-1:013100000000_2010:-1:110000000001_2011:-1:000110104300_2012:-1:9200f021bc00_2013:5:120003010210_2014:-1:0021611c0204_2015:-1:600000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+	
+
+
+
+	<div id="container" >
+	 	
+	 			 
+				 
+			
+		
+
+
+
+    
+
+
+
+        
+
+
+        
+
+	
+	
+	
+	
+
+
+
+
+<header id="global">
+	<h1 itemprop="name"><a href="/web/20130616125944/http://www.wendys.com/en-us/Home">	
+																	        
+																	                                                        
+																                
+																
+																	                                                                        
+																		Wendy's                                                                
+																	
+																
+						</a></h1>
+	<a id="switch" class="mobile">
+									        
+									                                                        
+								                
+								
+									                                                                        
+										Contents                                                                
+									
+								
+	</a>
+	<a id="pinClick" onclick="pinClick()"><img class="mobile findpin" src="/web/20130616125944im_/http://www.wendys.com/redesign/wendys/images/mobilefindpin.png" alt="Find Your Nearest Wendy's" /></a>
+								
+									        
+									                                                        
+								                
+								
+									                                                                        
+										<h2 class="desktop">Quality is our Recipe</h2>                                                                
+									
+											
+
+			<!-- Getting Right side header from Header Resource List -->
+			<p class="info_links desktop">
+				
+						<a class="linkA" href="/web/20130616125944/http://www.aboutwendys.com/" target="New Window">About Us</a>|
+					
+						
+							
+							
+							
+							
+							
+							
+						
+						
+						<a class="linkB" href="/web/20130616125944/http://www.wendys.com/en-us/careers">Careers</a>
+					
+			</p>
+		
+	
+</header>
+
+	 	
+	 		 
+				 
+		
+		
+
+
+
+
+
+ 
+
+
+
+
+<script language="JavaScript" type="text/javascript">  
+function redirect(site){  
+ window.location= site  
+}  
+</script>  
+  
+
+
+	
+           
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+<nav id="main_nav"  class="main">
+			<div class="locale desktop">
+				<!-- This is the language selector. Making a selection should change the locale to the selected locale.
+					The current locale should always be the default option showing in this list.
+					There are two instances of this select. This one is the non-mobile version,
+					and the mobile version is at the bottom of this include. -->
+				<select  onchange="redirect(this.value)">
+					<option value="/en-us/Home">US English</option>
+					<option value="http://es.wendys.com">US Spanish</option>
+					<option value="http://www.wendys.ca">CA English</option>
+					<option value="http://fr.wendys.ca">CA French</option>
+					
+				</select>
+			</div>
+
+			<!-- Do not edit div id="mobile_location" -->
+			<div id="mobile_location" class="locate mobile">
+				<form action="#" method="get" onsubmit="return setZipMobile();">
+					<input id="zip" type="text" placeholder="ZIP or City & State" />
+					<input type="submit" id="btnFind" />
+				</form>
+				<a id="mobileLocate" href="#">
+				
+					        
+					                                                        
+				                
+				
+					                                                                        
+						Use Current location                                                               
+					
+				</a>
+			</div>
+
+			<!-- Do not edit div id="mobile_location_current" -->
+			<div id="mobile_location_current" class="mobile">
+				<p id="my_closest_loc"></p>
+				<p><a id="my_closest_loc_directions" href="">
+				          
+				                                                          
+				                
+				                                                                        
+				  Directions                                                             
+				 
+				 </a>&nbsp;&nbsp;|&nbsp;&nbsp;<a id="my_closest_loc_directions" onclick="mobileLocateReset();">
+				 
+				          
+				                                                          
+				                
+				                                                                        
+				  Find                                                             
+				 </a></p>
+			</div>
+			<div class="clear mobile"></div>
+
+			<!-- Do not edit div id="mobileLocationsContainer" -->
+			<div id="mobileLocationsContainer" class="mobile filter_container">
+					<div class="filter">
+						<div>
+							<input id="option_breakfast_mobile" type="checkbox" class="check option_breakfast" />
+							
+								        
+								                                                        
+							                
+							                                                                        
+									<label for="option_breakfast_mobile"><p class="indicator_bf">Breakfast</p></label>                                                                
+							
+						</div>
+						<div>
+							<input id="option_wifi_mobile" type="checkbox" class="check option_wifi" />
+							
+								        
+								                                                        
+							                
+							                                                                        
+									<label for="option_wifi_mobile"><p class="indicator_wifi">Wi-Fi</p></label>                                                                
+							
+						</div>
+						<div>
+							<input id="option_latenight_mobile" type="checkbox" class="check option_latenight" />
+							
+								        
+								                                                        
+							                
+							                                                                        
+									<label for="option_latenight_mobile"><p class="indicator_ln">Open Past 10pm</p></label>                                                                
+							
+						</div>
+				      <div>
+					       <input id="option_open24hours_mobile" type="checkbox" class="check option_open24hours" />
+					       
+								        
+								                                                        
+							                
+							                                                                        
+									<label for="option_open24hours_mobile"><p class="indicator_24">Open 24 Hours</p></label>                                                                
+							
+					  </div>
+				      <div>
+					       <input id="option_mobilepay_mobile" type="checkbox" class="check option_mobilepay" />
+					       
+								        
+								                                                        
+							                
+							                                                                        
+									<label for="option_mobilepay_mobile"><p class="indicator_mp">Mobile Payments Accepted</p></label>                                                                
+							
+				      </div>
+					</div>
+					<div id="mobileLocations" class="results">
+						<div id="searchMessageMobile"></div>
+						<ul class="slides" id="locationListMobile"></ul>
+					</div>
+				</div>
+
+
+	   
+			
+		
+		
+		<ul>
+				
+	   	 		
+			
+				
+				
+					 
+					  
+						
+						
+   			 
+					<li class="linkA">
+							
+								        
+								                                                        
+							                
+							                                                                        
+							<a href="#">Dine</a>                                                                
+							
+						   	<div>
+						  
+								  <ul>
+								   
+								        	 
+					                               
+					                              
+					                              
+					                              
+					                              
+				                              
+				                             <li>  <a  class = family1 href="/web/20130616125944/http://www.wendys.com/en-us/hamburgers" >
+		                                      
+		                                      <span>Old Fashioned Hamburgers&reg;</span>
+		                                       
+				                               
+				                               
+								             <div class="desktop" data-picture data-alt="Old Fashioned Hamburgers&reg;">
+								             <div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys//images/filler.png"></div>
+								            
+								                    
+														
+														
+														
+														
+														
+													
+								            <div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292319&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+								            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660292319&ssbinary=true"></div><![endif]-->
+						                    <noscript><img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292319&amp;ssbinary=true" alt="Wendy's Hamburgers 100% Fresh Beef"></noscript>
+						                    </div>
+									          
+							    				 </a></li>
+				                              
+								        	 
+					                               
+					                              
+					                              
+					                              
+					                              
+				                              
+				                             <li>  <a  class = family2 href="/web/20130616125944/http://www.wendys.com/en-us/chicken" >
+		                                      
+		                                      <span>Chicken and Wraps</span>
+		                                       
+				                               
+				                               
+								             <div class="desktop" data-picture data-alt="Chicken and Wraps">
+								             <div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys//images/filler.png"></div>
+								            
+								                    
+														
+														
+														
+														
+														
+													
+								            <div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292631&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+								            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660292631&ssbinary=true"></div><![endif]-->
+						                    <noscript><img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292631&amp;ssbinary=true" alt="Chicken n Wraps"></noscript>
+						                    </div>
+									          
+							    				 </a></li>
+				                              
+								        	 
+					                               
+					                              
+					                              
+					                              
+					                              
+				                              
+				                             <li>  <a  class = family3 href="/web/20130616125944/http://www.wendys.com/en-us/salads" >
+		                                      
+		                                      <span>Garden Sensations&reg; Salads</span>
+		                                       
+				                               
+				                               
+								             <div class="desktop" data-picture data-alt="Garden Sensations&reg; Salads">
+								             <div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys//images/filler.png"></div>
+								            
+								                    
+														
+														
+														
+														
+														
+													
+								            <div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660291713&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+								            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660291713&ssbinary=true"></div><![endif]-->
+						                    <noscript><img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660291713&amp;ssbinary=true" alt="Wendy's Garden Sensation Salads"></noscript>
+						                    </div>
+									          
+							    				 </a></li>
+				                              
+								        	 
+					                               
+					                              
+					                              
+					                              
+					                              
+				                              
+				                             <li class='noRborder'>  <a  class = family4 href="/web/20130616125944/http://www.wendys.com/en-us/right-price-right-size" >
+		                                      
+		                                      <span>Right Price Right Size Menu&trade;</span>
+		                                       
+				                               
+				                               
+								             <div class="desktop" data-picture data-alt="Right Price Right Size Menu&trade;">
+								             <div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys//images/filler.png"></div>
+								            
+								                    
+														
+														
+														
+														
+														
+													
+								            <div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292271&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+								            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660292271&ssbinary=true"></div><![endif]-->
+						                    <noscript><img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292271&amp;ssbinary=true" alt="Right Price Right Size"></noscript>
+						                    </div>
+									          
+							    				 </a></li>
+				                              
+								        	 
+					                               
+					                              
+					                              
+					                              
+					                              
+				                              
+				                             <li class='noBborder'>  <a  class = family5 href="/web/20130616125944/http://www.wendys.com/en-us/fries-sides" >
+		                                      
+		                                      <span>Fries & Sides</span>
+		                                       
+				                               
+				                               
+								             <div class="desktop" data-picture data-alt="Fries & Sides">
+								             <div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys//images/filler.png"></div>
+								            
+								                    
+														
+														
+														
+														
+														
+													
+								            <div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660291491&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+								            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660291491&ssbinary=true"></div><![endif]-->
+						                    <noscript><img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660291491&amp;ssbinary=true" alt="Fries & Sides"></noscript>
+						                    </div>
+									          
+							    				 </a></li>
+				                              
+								        	 
+					                               
+					                              
+					                              
+					                              
+					                              
+				                              
+				                             <li class='noBborder'>  <a  class = family6 href="/web/20130616125944/http://www.wendys.com/en-us/beverages" >
+		                                      
+		                                      <span>Beverages</span>
+		                                       
+				                               
+				                               
+								             <div class="desktop" data-picture data-alt="Beverages">
+								             <div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys//images/filler.png"></div>
+								            
+								                    
+														
+														
+														
+														
+														
+													
+								            <div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292287&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+								            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660292287&ssbinary=true"></div><![endif]-->
+						                    <noscript><img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292287&amp;ssbinary=true" alt="Beverages"></noscript>
+						                    </div>
+									          
+							    				 </a></li>
+				                              
+								        	 
+					                               
+					                              
+					                              
+					                              
+					                              
+				                              
+				                             <li class='noBborder'>  <a  class = family7 href="/web/20130616125944/http://www.wendys.com/en-us/kids-meals" >
+		                                      
+		                                      <span>Wendy's Kids' Meal&reg;</span>
+		                                       
+				                               
+				                               
+								             <div class="desktop" data-picture data-alt="Wendy's Kids' Meal&reg;">
+								             <div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys//images/filler.png"></div>
+								            
+								                    
+														
+														
+														
+														
+														
+													
+								            <div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292207&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+								            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660292207&ssbinary=true"></div><![endif]-->
+						                    <noscript><img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292207&amp;ssbinary=true" alt="Wendy's Kids' Meals"></noscript>
+						                    </div>
+									          
+							    				 </a></li>
+				                              
+								        	 
+					                               
+					                              
+					                              
+					                              
+					                              
+				                              
+				                             <li class='noRborder noBborder'>  <a  class = family8 href="/web/20130616125944/http://www.wendys.com/en-us/frosty" >
+		                                      
+		                                      <span>Frosty&trade;</span>
+		                                       
+				                               
+				                               
+								             <div class="desktop" data-picture data-alt="Frosty&trade;">
+								             <div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys//images/filler.png"></div>
+								            
+								                    
+														
+														
+														
+														
+														
+													
+								            <div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660500412&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+								            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660500412&ssbinary=true"></div><![endif]-->
+						                    <noscript><img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660500412&amp;ssbinary=true" alt="Wendy's Fresh Frosty Desserts"></noscript>
+						                    </div>
+									          
+							    				 </a></li>
+				                              </ul>
+									
+									
+					                      
+										 
+										  
+
+	
+		
+			
+		
+	
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 	 
+				 
+				 
+				
+						 
+			
+				
+			
+			
+				 
+			
+			
+ 
+
+				
+    
+    
+
+
+ 
+ 
+     
+     
+			
+			
+			
+			
+			
+			
+			
+		
+				
+							 
+						 
+						
+				       
+		               
+		               
+		                
+						
+		               
+	             
+	            
+	             
+	      
+			<a class="desktop" href="/web/20130616125944/http://www.wendys.com/en-us/Dine/asiago-ranch-flatbread">
+			<img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292679&amp;ssbinary=true" alt="Flatbread Grilled Chicken"/>
+			</a> 
+		 				
+
+ 
+
+			                          		
+					</div>
+				
+				</li>
+				
+			
+				
+					
+				<!-- "MY WENDY'S" NAVIGATION ITEM -->
+					
+				
+				
+	
+				
+				
+					 
+					  
+						
+						
+   			 	
+			
+				
+				<li class="linkB">
+				
+						        
+						                                                        
+				                
+					                                                                        
+						<a href="#">Learn</a>                                                                
+					
+				
+						  		<div>
+							<ul>	
+								
+							   <li class='learn1'>
+								  
+								 
+								  
+								 
+								  
+
+	
+		
+			
+		
+	
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 	 
+				 
+				 
+			
+				 
+				
+						 
+			
+				
+			
+			
+				 
+			
+			
+ 
+
+				
+    
+    
+
+
+ 
+ 
+     
+     
+			
+			
+			
+			
+			
+			
+			
+		
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+					<a  href="/web/20130616125944/http://www.wendys.com/en-us/nutrition-info" >
+			     	
+							<span>Nutrition</span>
+						
+						<div data-picture data-alt="Nutrition">
+							<div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys/images/filler.png"></div>
+							<div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660290573&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+							<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660290573&ssbinary=true"></div><![endif]-->
+							<noscript>
+							<img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660290573&amp;ssbinary=true" alt="Nutrition"> </noscript>
+						</div>
+					</a>
+					
+					
+					<p class="redButton desktop">
+						
+						        
+						                                                        
+						
+						<a href="/web/20130616125944/http://www.wendys.com/en-us/nutrition-info">
+							
+							                                                                        
+							View All                                                             
+							
+							
+						</a>
+					</p>
+					
+					
+				
+							
+
+ 
+
+								 </li> 
+							 <li class='learn2'>
+								  
+								 
+								  
+								 
+								  
+
+	
+		
+			
+		
+	
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 	 
+				 
+				 
+			
+				 
+				
+						 
+			
+				
+			
+			
+				 
+			
+			
+ 
+
+				
+    
+    
+
+
+ 
+ 
+     
+     
+			
+			
+			
+			
+			
+			
+			
+		
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+					<a  href="/web/20130616125944/http://www.wendys.com/en-us/quality-story" >
+			     	
+						<span class="mobile"><p>
+	Quality is Our Recipe</p>
+</span>
+							
+						<div data-picture data-alt="Nutrition">
+							<div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys/images/filler.png"></div>
+							<div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292143&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+							<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660292143&ssbinary=true"></div><![endif]-->
+							<noscript>
+							<img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660292143&amp;ssbinary=true" alt="Quality is Our Recipe"> </noscript>
+						</div>
+					</a>
+					
+					
+					
+					<p class="redButton desktop">
+						
+						        
+						                                                        
+						
+						<a href="/web/20130616125944/http://www.wendys.com/en-us/quality-story">
+							
+							                                                                        
+							Learn More                                                             
+							
+							
+						</a>
+					</p>
+				
+				
+							
+
+ 
+
+								 </li> 
+							
+							  
+						</ul></div>
+				</li>
+				
+				
+				
+					
+				<!-- "MY WENDY'S" NAVIGATION ITEM -->
+					
+				
+				
+	
+				
+				
+					 
+					  
+						
+						
+   			 	
+			
+				
+				<!-- "PLAY" NAVIGATION ITEM -->
+				<li class="linkC">
+				
+						        
+						                                                        
+				                
+					                                                                        
+						<a href="#">Play</a>                                                                
+				
+					
+						  		<div>
+							<ul>			
+							   <li class='play1'>
+								  
+								 
+								   
+								  
+
+	
+		
+			
+		
+	
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 	 
+				 
+				 
+			
+				 
+				
+						 
+			
+				
+			
+			
+				 
+			
+			
+ 
+
+				
+    
+    
+
+
+ 
+ 
+     
+     
+			
+			
+			
+			
+			
+			
+			
+		
+ 			<a  href="/web/20130616125944/http://www.wendys.com/app" target="_blank">
+ 	     	
+ 				<span><p>
+	My Wendy&#39;s App</p>
+</span>
+ 				
+ 				<div data-picture data-alt="mobile ">
+ 					<div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys/images/filler.png"></div>
+ 					<div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660293047&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+ 					<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660293047&ssbinary=true" ></div><![endif]-->
+ 					<noscript>
+ 					<img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660293047&amp;ssbinary=true" alt="mobile"> </noscript>
+ 				</div>
+ 			</a>
+ 			
+				
+	  		  <p class="redButton desktop"><a href="/web/20130616125944/http://www.wendys.com/app" target="_blank">GET THE APP</a>
+					
+					
+				
+ 							
+
+ 
+
+								 </li> 
+							 <li class='play2'>
+								  
+								 
+								   
+								  
+
+	
+		
+			
+		
+	
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 	 
+				 
+				 
+			
+				 
+				
+						 
+			
+				
+			
+			
+				 
+			
+			
+ 
+
+				
+    
+    
+
+
+ 
+ 
+     
+     
+			
+			
+			
+			
+			
+			
+			
+		
+ 			<a  href="/web/20130616125944/http://latenight.wendys.com/" >
+ 	     	
+ 				<span><p>
+	Win a Rockstar Getaway</p>
+</span>
+ 				
+ 				<div data-picture data-alt="Win a Rockstar Getaway With Our Greatlate Giveaway ">
+ 					<div data-src="/web/20130616125944oe_/http://www.wendys.com/redesign/wendys/images/filler.png"></div>
+ 					<div data-src="/web/20130616125944oe_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660910507&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+ 					<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1365660910507&ssbinary=true" ></div><![endif]-->
+ 					<noscript>
+ 					<img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660910507&amp;ssbinary=true" alt="Win a Rockstar Getaway With Our Greatlate Giveaway"> </noscript>
+ 				</div>
+ 			</a>
+ 			
+					
+					<p class="redButton desktop">
+						
+						        
+						                                                        
+						
+						<a href="/web/20130616125944/http://latenight.wendys.com/">
+							
+							                                                                        
+							Learn More                                                             
+							
+							
+						</a>
+					</p>
+				
+				
+ 							
+
+ 
+
+								 </li> 
+							
+							  
+						</ul></div>
+				</li>
+				
+					
+				<!-- "MY WENDY'S" NAVIGATION ITEM -->
+					
+				
+				
+	
+				
+				
+					 
+					  
+						
+						
+   			 	
+			
+				
+					 
+				<!-- "FIND" NAVIGATION ITEM - DO NOT EDIT -->
+				<li class="linkD">
+				
+						        
+						                                                        
+				                
+							
+																	                                                                        
+																		<a id="searchInit" href="#">Find</a>                                                               
+																	
+																
+					<span id="myNearestWendys">
+						<img src="/web/20130616125944im_/http://www.wendys.com/redesign/wendys/images/nav/myNearestWendys.png" alt="My Nearest Wendy's" /><br />
+						<span></span>
+					</span>
+					<div class="filter_container">
+						<div id="locSearch">
+							<form id="zipsearch" action="#" method="get" onsubmit="return setZip();">
+								<input name="postal" id="postal" type="text" value="" placeholder="ZIP or City & State"/>
+								<input id="submit_search" type="submit" name="submit" value="Search" />
+								
+																	        
+																	                                                        
+																                
+																
+																	                                                                        
+																		<p><a id="desktopLocate" href="#">Use Current location &raquo;</a></p>                                                               
+																	
+																
+								<div class="filter">
+									<div>
+										<input id="option_breakfast" type="checkbox" class="check option_breakfast" />
+										
+																	        
+																	                                                        
+																                
+																
+																	                                                                        
+																		<label for="option_breakfast"><p class="indicator_bf">Breakfast</p></label>                                                                
+																	
+																
+									</div>
+									<div>
+										<input id="option_wifi" type="checkbox" class="check option_wifi" />
+										
+																	        
+																	                                                        
+																                
+																
+																	                                                                        
+																		<label for="option_wifi"><p class="indicator_wifi">Wi-Fi</p></label>                                                                
+																	
+																
+									</div>
+									<div>
+										<input id="option_latenight" type="checkbox" class="check option_latenight" />
+										
+											        
+											                                                        
+										                
+										
+											                                                                        
+												<label for="option_latenight"><p class="indicator_ln">Open Past 10pm</p></label>                                                                
+											
+										
+									</div>
+									<div>
+							          <input id="option_open24hours" type="checkbox" class="check option_open24hours" />
+							          	
+											        
+											                                                        
+										                
+										
+											                                                                        
+												<label for="option_open24hours"><p class="indicator_24">Open 24 Hours</p></label>                                                                
+											
+										
+							         </div>
+							         <div>
+							          <input id="option_mobilepay" type="checkbox" class="check option_mobilepay" />
+							          
+											        
+											                                                        
+										                
+										
+											                                                                        
+												<label for="option_mobilepay"><p class="indicator_mp">Mobile Payments Accepted</p></label>                                                                
+											
+										
+							         </div>
+								</div>
+							</form>
+							<div id="searchMessage"></div>
+						</div>
+						<div id="locResults" class="results">
+							<ul class="slides" id="locationList"></ul>
+							<h2 id="locationDeniedSearch">Please use search field to enter ZIP or City and State to find locations.</h2>
+						</div>
+					</div>
+				</li>
+				
+				<!-- "MY WENDY'S" NAVIGATION ITEM -->
+					
+				
+				
+	
+				
+				
+					 
+					  
+						
+						
+   			 	
+			
+				
+					
+				<!-- "MY WENDY'S" NAVIGATION ITEM -->
+					
+				
+				<!--
+					**********
+
+					For Phase 1, the link to my_home.shtml will be replaced with an external link to /web/20130616125944/http://aboutwendys.com/
+					This link will not trigger the login or My Wendys drop down to displayed for Phase 1.
+
+					**********
+				-->
+
+				<li class="linkE"><a href="/web/20130616125944/http://www.mywendysonline.com/" target="_blank">My Wendy's <span class="mobile">Login</span></a></li>
+			
+			
+				
+				
+	
+			
+			</ul>
+			
+			
+			
+			<!-- Getting Right side header from Header Resource List -->
+		<p class="info_links mobile">
+				
+						<a class="linkA" href="/web/20130616125944/http://www.aboutwendys.com/" target="New Window">About Us</a>|
+					
+						
+							
+							
+							
+							
+							
+							
+						
+						
+						<a class="linkB" href="/web/20130616125944/http://www.wendys.com/en-us/careers">Careers</a>
+					
+			</p>
+		
+
+			<!-- Link to the about us page and the careers landing page.
+			<p class="info_links mobile"><a class="linkA" href="about.shtml">About Us</a> | <a class="linkB" href="/redesign/wendys/careers.shtml">Careers</a></p>
+			 -->
+			<!-- This is a site search form. Search results page provided - search_results.shtml 
+				Do not edit the classes or ids.
+			-->
+			<!-- <div class="search mobile">
+				<form action="#" method="post">
+					<input id="searchterm" type="text" placeholder="Search" />
+					<input type="submit" id="btnSearch" />
+				</form>
+			</div> -->
+
+			<div class="locale mobile">
+				<!-- This is the language selector. Making a selection should change the locale to the selected locale.
+					The current locale should always be the default option showing in this list.
+					There are two instances of this select. This one is the mobile version,
+					and the non-mobile version is at the top of this include. -->
+				<select  onchange="redirect(this.value)">
+					<option "/en-us/Home">US English</option>
+					<option value="http://es.wendys.com">US Spanish</option>
+					<option value="http://www.wendys.ca">CA English</option>
+					<option value="http://fr.wendys.ca">CA French</option>
+					
+				</select>
+			</div>
+		</nav>
+
+
+		
+		
+		 
+			
+			
+			
+					
+				 
+				 
+			
+			
+			 
+				
+			
+			
+					
+			
+			
+					
+			
+			
+					
+			
+			
+					
+			
+			
+					
+			
+			
+				
+		
+		
+				
+		
+		
+				
+		    
+		
+				
+		
+		
+				
+		 	
+		
+
+
+
+
+
+<section id="content">
+			<header>
+				<h1>UH-OH, WE'RE SORRY...</h1>
+				
+				<h2>PAGE NOT FOUND</h3>
+				
+			</header> 
+			
+			<!-- UTILITY TEXT BEGIN -->
+				<div id="utility_text" align="middle">
+					
+							
+			
+								    
+										
+										
+										
+										
+										
+								 	
+								 	
+								 	<img src="/web/20130616125944im_/http://www.wendys.com/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365660291955&amp;ssbinary=true" alt="404 Error" >
+						    
+
+					
+					
+					<div style="font-size: larger; padding: 30px 0;"><div>
+	<strong>The page you&#39;re looking for may be moved.</strong></div>
+<div>
+	It might help to start from the homepage: http://www.wendys.com</div>
+</div>
+				 	
+				</div>
+				<div class="clear"></div> 
+			<!-- UTILITY TEXT END -->
+</section>
+
+  
+		
+	
+		
+		
+			 
+				 
+		
+	
+
+
+
+
+
+	
+
+
+
+
+
+ 
+
+
+	
+	
+	
+	
+	
+
+
+
+<!-- Render Output -->
+
+		<footer>
+
+			<!-- This is a site search form. Search results page provided - search_results.shtml
+				Do not edit the classes or ids.
+			-->
+			<div class="search">
+			
+			</div>
+			<div id="sections">
+					<section id="connect">
+							
+								<h1 style="background-image:url(/web/20130616125944im_/http://www.wendys.com/redesign/wendys/images/headline_stayconnected.png)">Stay Connected</h1>
+								
+								<nav title="Social Media Links">
+									<!-- This is a list of company social media links.
+										CMS admin should be able to edit the href for each link, but nothing else.
+									-->
+									<ul>
+							
+						
+								<li class="fb"><a href="/web/20130616125944/http://www.wendys.com/facebook" target="_blank">Facebook</a></li>
+							
+								<li class="pn"><a href="/web/20130616125944/http://pinterest.com/WendysOfficial/" target="_blank">Pinterest</a></li>
+							
+								<li class="gp"><a href="/web/20130616125944/https://plus.google.com/117233332742362932169" target="_blank">Google Plus</a></li>
+							
+								<li class="yt"><a href="/web/20130616125944/http://www.youtube.com/wendys" target="_blank">YouTube</a></li>
+							
+								<li class="tw"><a href="/web/20130616125944/http://www.wendys.com/twitter" target="_blank">Twitter</a></li>
+							
+						</ul>
+					</nav>
+					
+					<div class="clear"></div>
+				</section>
+				
+		  
+				    	  <section id="linksA">
+				    			
+									<h1 style="background-image:url(/web/20130616125944im_/http://www.wendys.com/redesign/wendys/images/headline_wendysglobal.png)">Our Company</h1>
+								
+								<nav title="Wendy's Global Links">
+									<ul>
+						    
+											<li class="desktop"><a href="/web/20130616125944/http://www.aboutwendys.com/" target="New Window">About Us</a></li>
+									
+											<li class="desktop"><a href="/web/20130616125944/http://www.aboutwendys.com/News/" target="New Window">News</a></li>
+									
+											<li class="desktop"><a href="/web/20130616125944/http://www.aboutwendys.com/Responsibility/" target="New Window">Responsibility</a></li>
+									
+											<li class="desktop"><a href="/web/20130616125944/http://www.aboutwendys.com/International/" target="New Window">International</a></li>
+									
+											<li class="desktop"><a href="/web/20130616125944/http://www.aboutwendys.com/Investors/" target="New Window">Investors</a></li>
+									
+									
+		                                
+		                                
+		                                
+		                                
+		                                
+		                            
+		                            
+		                            
+		                            
+		                            <li><a href="/web/20130616125944/http://www.wendys.com/en-us/careers">Careers</a></li>
+							
+									
+		                                
+		                                
+		                                
+		                                
+		                                
+		                            
+		                            
+		                            
+		                            
+		                            <li><a href="/web/20130616125944/http://www.wendys.com/en-us/contact-wendys">Contact</a></li>
+							
+						    	</ul>
+						    	</nav>
+						    </section>	
+				         
+				
+		  
+				    	  <section id="linksB" class="desktop">
+				    			
+								<h1 style="background-image:url(/web/20130616125944im_/http://www.wendys.com/redesign/wendys/images/headline_community.png)">Community</h1>
+								
+								<nav title="Community Links">
+									<ul>
+						    
+								<li><a href="/web/20130616125944/http://www.wendys.com/givingback" target="New Window">Wendy's Gives Back</a></li>
+						
+								<li><a href="/web/20130616125944/http://www.aboutwendys.com/Responsibility/Father-s-Day-Frosty-Weekend" target="New Window">Father's Day Frosty Weekend</a></li>
+						
+								<li><a href="/web/20130616125944/http://www.davethomasfoundation.org/what-we-do/wendys-wonderful-kids/" target="New Window">Wendy's Wonderful Kids&trade;</a></li>
+						
+								<li><a href="/web/20130616125944/http://www.wendyshighschoolheisman.com/" target="New Window">Wendy's&reg; High School Heisman&reg;</a></li>
+						
+						    	</ul>
+						    	</nav>
+						    </section>	
+				       
+					
+		  
+				    	  <section id="linksC">
+				    			
+								<h1 style="background-image:url(/web/20130616125944im_/http://www.wendys.com/redesign/wendys/images/headline_quicklinks.png)">Quick Links</h1>
+								
+								<nav title="Quick Links">
+									<ul>
+						    
+									
+		                                
+		                                
+		                                
+		                                
+		                                
+		                            
+		                            
+		                            
+		                            
+			                            <li><a href="/web/20130616125944/http://www.wendys.com/en-us/nutrition-info">Nutrition Information</a></li>
+								
+									
+		                                
+		                                
+		                                
+		                                
+		                                
+		                            
+		                            
+		                            
+		                            
+			                            <li class="desktop"><a href="/web/20130616125944/http://www.wendys.com/en-us/careers">Careers</a></li>
+								  
+								<li class="desktop"><a href="/web/20130616125944/https://www1.wendys.com/mywendysonline/buycards.jsp" target="New Window">Wendy's Gift Cards </a></li>
+						
+								<li class="desktop"><a href="/web/20130616125944/https://www1.wendys.com/mywendysonline/login.jsp" target="New Window">Sign up for WendyMail</a></li>
+						
+						    	</ul>
+						    	</nav>
+						    </section>	
+				         
+				
+					<section id="get_app">
+							
+							<h1 style="background-image:url(/web/20130616125944im_/http://www.wendys.com/redesign/wendys/images/headline_wendysapp.png)">Get the My Wendy's App</h1>
+							
+						<ul>
+						
+								<li class="app_apple"><a href="/web/20130616125944/https://itunes.apple.com/us/app/my-wendys/id540518599" target="New Window">AppleAppStore</a></li>
+							
+								<li class="app_android"><a href="/web/20130616125944/http://play.google.com/store/apps/details?id=com.wendys.nutritiontool" target="New Window">AndroidApp</a></li>
+							
+								<li class=""><a href="/web/20130616125944/http://www.wendys.com/app" target="New Window">WendysApp</a></li>
+							
+					</ul>
+				</section>
+			</div>
+			<div class="clear"></div>
+			
+				<div id="copyright">
+					<!-- CMS admin should be able to edit copy in these elements -->
+					<p>
+	&copy;2013 Oldemark LLC. Wendy&#39;s International, Inc.</p>
+<address>
+	One Dave Thomas Boulevard, Dublin, OH 43017 / <span class="desktop">(614) 764-3100</span><a class="mobile" href="tel:(614)764-3100">(614)764-3100</a></address>
+
+				</div>
+			
+			<div id="footer_links">
+				<ul>
+					
+									
+	                                    
+	                                    
+	                                    
+	                                    
+	                                    
+                                    
+                                    
+                                    
+                                    <li><a href="/web/20130616125944/http://www.wendys.com/en-us/contact-wendys">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+							
+									
+	                                    
+	                                    
+	                                    
+	                                    
+	                                    
+                                    
+                                    
+                                    
+                                    <li><a href="/web/20130616125944/http://www.wendys.com/en-us/privacy-policy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+							
+									
+	                                    
+	                                    
+	                                    
+	                                    
+	                                    
+                                    
+                                    
+                                    
+                                    <li><a href="/web/20130616125944/http://www.wendys.com/en-us/terms-conditions">Terms & Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+							
+									
+	                                    
+	                                    
+	                                    
+	                                    
+	                                    
+                                    
+                                    
+                                    
+                                    <li><a href="/web/20130616125944/http://www.wendys.com/en-us/sitemap">SiteMap</a></li>
+							
+				</ul>
+			</div>
+
+		</footer>
+
+	</div> <!-- END CONTAINER -->
+
+	<!-- DO NOT CHANGE ANY OF THE FOLLOWING CODE -->
+	<script type="text/javascript" src="/web/20130616125944js_/http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+ 
+	<script type="text/javascript">
+			var showLocation = false;
+			$(document).ready(function(){
+				if(localStorage.getItem('CareersCity')!=null && localStorage.getItem('CareersState')!=null){
+					var city = localStorage.getItem('CareersCity');
+					var state = localStorage.getItem('CareersState');
+						if($('#city')!=null && $('#state')!=null){
+							var stateText;
+							$('#city').val(city);
+							$('#state').val(state);
+							$("select#state option",this).each(function(){
+								if($(this).val() == state){
+									$(this).attr('selected', true);
+									stateText = $(this).text();
+								}
+							});
+							$('#state').parent().find('.styled_select .text').text(stateText);
+						}
+				} else {
+					jsProperties.isUserGeoLocated = false;
+					if(localStorage.getItem('CareersCity')!=null && localStorage.getItem('CareersState')!=null){
+						$('#city').val(localStorage.getItem('CareersCity'));
+						$('#state').val(localStorage.getItem('CareersState'));
+						$("select#state option",this).each(function(){
+							if($(this).val() == localStorage.getItem('CareersState')){
+								$(this).attr('selected', true);
+							}
+						});
+					} else {
+						$('#city').val(jsProperties.userDefaultCity);
+						$('#state').val(jsProperties.userDefaultState);
+						localStorage.setItem('CareersCity', jsProperties.userDefaultCity);
+						localStorage.setItem('CareersState', jsProperties.userDefaultState);
+						$("select#state option",this).each(function(){
+							if($(this).val() == jsProperties.userDefaultState){
+								$(this).attr('selected', true);
+							}
+						});
+					}
+				}
+				if($('#radius')!=null){
+					var radius = localStorage.getItem('radius');
+					$("select#radius option",this).each(function(){
+						if($(this).val() == radius){
+							$(this).attr('selected', true);
+						}
+					});
+				}
+				if($('#category')!=null){
+					var category = localStorage.getItem('category');
+					$("select#categories option",this).each(function(){
+						if($(this).val() == category){
+							$(this).attr('selected', true);
+						}
+					});
+				}
+
+			});
+	</script>
+	
+	<script type="text/javascript" src="/web/20130616125944js_/http://www.wendys.com/redesign/wendys/javascripts/main-phase1.js"></script>
+	<script type="text/javascript" src="/web/20130616125944js_/http://www.wendys.com/redesign/wendys/javascripts/jquery.flexslider-min.js"></script>
+	<script type="text/javascript" src="/web/20130616125944js_/http://www.mapquestapi.com/sdk/js/v7.0.s/mqa.toolkit.js?key=Gmjtd%7Clu612dubnh%2C70%3Do5-lwz0l"></script>
+	<script type="text/javascript" src="/web/20130616125944js_/http://www.wendys.com/redesign/wendys/javascripts/services.js"></script>
+	<script type="text/javascript" src="/web/20130616125944js_/http://www.wendys.com/redesign/wendys/javascripts/mapservices.js"></script>
+	<!-- Page specific javascripts -->
+	
+	  		
+	    	
+	    	
+	
+
+
+
+
+
+
+
+<!-- Load only page specific javascripts here -->
+
+
+
+
+
+
+
+
+
+
+		
+     
+	
+	
+
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	<script type="text/javascript">
+	$(document).ready(function(){
+		if(localStorage.getItem('LocationLat')!=null && localStorage.getItem('LocationLong')!=null){
+			var userLat = localStorage.getItem('LocationLat');
+			var userLong = localStorage.getItem('LocationLong');
+				if($('#userLat')!=null && $('#userLong')!=null){
+					$('#userLat').val(userLat);
+					$('#userLong').val(userLong);
+				}
+		} else {
+				if($('#userLat')!=null && $('#userLong')!=null){
+					$('#userLat').val(jsProperties.userLat);
+					$('#userLong').val(jsProperties.userLong);
+				}
+				localStorage.setItem('LocationLat',jsProperties.userLat);
+				localStorage.setItem('LocationLong',jsProperties.userLong);
+		}
+
+		//On change of location on Careers Search bar
+		$("#city").change(function(){
+			$("#city").val($("#city").val());
+			localStorage.setItem('CareersCity', $("#city").val());
+		});
+
+		$('select#state').change(function(e) {
+			localStorage.setItem('CareersState', $("#state").val());
+			$("#state").val($("#state").val());
+		    /* $('span.location_state').text(e.target.options[e.target.selectedIndex].value); */
+		    $("select#state option",this).each(function(){
+				if($(this).val() == e.target.options[e.target.selectedIndex].value){
+					$(this).attr('selected', true);
+				}
+			});
+		});
+		$('select#categories').change(function(e) {
+			localStorage.setItem("category", $("#categories").val());
+			$("select#categories option",this).each(function(){
+				$(this).attr('selected', true);
+			});
+		});
+		$('select#radius').change(function(e) {
+			localStorage.setItem("radius",$("#radius").val());
+			$("select#radius option",this).each(function(){
+				$(this).attr('selected', true);
+			});
+		});
+	});
+	if(localStorage.getItem('CareersState')!=null && localStorage.getItem('CareersState')!="0" && showLocation === true){
+		$('span.location_city').text(localStorage.getItem('CareersCity'));
+		$('span.location_state').text(localStorage.getItem('CareersState'));
+		$('.location_based').show();
+	}
+	</script>
+	
+	<!--[if lte IE 8 ]>
+		<link href="css/old_ie.css" rel="Stylesheet" type="text/css" />
+		<script src="/redesign/wendys/javascripts/respond.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=216267971763705";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+	<script type="text/javascript">
+      window.___gcfg = {
+        lang: 'en-US'
+      };
+
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = '/web/20130616125944/https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+    </script>
+
+	<script type="text/javascript" src="/web/20130616125944js_/http://assets.pinterest.com/js/pinit.js"></script>
+
+	<script type="text/javascript">
+		var accountID = 'UA-7557226-7';
+		var domain = window.location.host;
+		if (domain !== 'www.wendys.com') {
+			accountID = 'UA-7557226-10'; // test account
+		}
+
+	  	var _gaq = _gaq || [];
+	 	_gaq.push(['_setAccount', accountID]);
+	  	_gaq.push(['_trackPageview']);
+
+	  	(function() {
+	    	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    	ga.src = ('https:' == document.location.protocol ? '/web/20130616125944/https://ssl' : '/web/20130616125944/http://www') + '.google-analytics.com/ga.js';
+	    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  	})();
+	  	if(!$.browser.msie){
+	  		console.log(accountID);
+	  	}
+	</script>
+	<script>
+		function setAsideHeight() {
+			var shelfHeight = $('.product-grid').height() + 63;
+			$('aside').css('height', shelfHeight + 'px');
+		}
+
+		$(window).load(function() {
+			if ($(window).width() > 720) {
+				setAsideHeight();
+			}
+		});
+
+	</script>
+
+	<script>
+		!function(d,s,id) {
+			var js,fjs=d.getElementsByTagName(s)[0];
+			if(!d.getElementById(id)){
+				js=d.createElement(s);
+				js.id=id;
+				js.src="/web/20130616125944/https://platform.twitter.com/widgets.js";
+				fjs.parentNode.insertBefore(js,fjs);
+			}
+		}(document,"script","twitter-wjs");
+	</script>
+	
+ 
+	
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 12:59:44 Jun 16, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 2:48:04 Jan 12, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
