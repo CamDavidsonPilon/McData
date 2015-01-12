@@ -4,5 +4,5 @@ A data repository for data surrounding fast food nutrition and ingredients. Curr
 scripts will come later. 
 
 
- - [ ] McDonalds
+ - [x] McDonalds
  - [ ] Tim Hortons
