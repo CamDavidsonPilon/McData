@@ -1,14 +1,10 @@
 # McData
 
-A data repository for data surrounding fast food nutrition and ingredients. You can collect your own data using the super-hacky `scaper.py`. 
+A data repository for fast food nutrition and ingredients. 
 
+To scrape historic nutritional information, use the [waybackpack](https://github.com/jsvine/waybackpack) command line tool. To get unique McDonald's nutritional PDFs until 2018, run the following from the command line:
 
- - [x] McDonalds
- - [x] KFC
- - [ ] Tim Hortons
- - [x] Wendys
- - [x] Swiss Chalet
- - [ ] Taco Bell
- - [ ] Chipotles
- - [ ] Applebees
- - [x] Burger King
+`pip install waybackpack`
+`waybackpack http://nutrition.mcdonalds.com/usnutritionexchange/nutritionfacts.pdf -d DESTINATIONDIRECTORY --to-date 2018 --uniques-nly`
+
+Note: McDonald's previously stored its nutritional PDFs [here](http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf) 
