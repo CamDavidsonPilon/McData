@@ -2,3 +2,4 @@ requests
 click
 pandas
 tabula-py
+waybackpack
