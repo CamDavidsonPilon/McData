@@ -1,2 +1,4 @@
 requests
-beautifulsoup4
+click
+pandas
+tabula-py
