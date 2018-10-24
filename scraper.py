@@ -26,7 +26,7 @@ def download_file(url, filename):
     return filename
 
 
-def get_calender_pages(url, start=2002, end=2020, folder=None):
+def get_calender_pages(url, start=2015, end=2020, folder=None):
     for year in range(start, end+1):
         r = requests.get(create_calender_url(url, year))
         if len(r.history) > 0:

@@ -12,3 +12,14 @@ A data repository for data surrounding fast food nutrition and ingredients. You 
  - [ ] Chipotles
  - [ ] Applebees
  - [x] Burger King
+
+
+## McDonalds
+# use this instead: https://web.archive.org/cdx/search/cdx?url=http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf
+& info here: https://hackernoon.com/guide-to-handling-internet-archives-cdx-server-api-response-c469df5b81f4
+
+ - http://nutrition.mcdonalds.com/getnutrition/nutritionfacts.pdf
+ - http://nutrition.mcdonalds.com/usnutritionexchange/nutritionfacts.pdf
+
+
+ 
