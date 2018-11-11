@@ -1,3 +1,4 @@
+import glob
 import sqlite3
 import pandas as pd
 
@@ -32,7 +33,7 @@ def clean_dataframe(df):
 def clean_all_dataframes():
     final_df = pd.DataFrame()
 
-    csvs = glob.glob("*.csv")
+    csvs = glob.glob("McDonalds/parsed_Nutrition/*.csv")
     for csv in csvs:
         df = pd.read_csv(csv)
         df['file'] = csv
@@ -47,3 +48,7 @@ def load(df):
         df.to_sql("mcdonalds_nutrition", conn, index=False, index_label="index", if_exists='replace', chunksize=10000)
 
 
+if __name__=="__main__":
+    df = clean_all_dataframes()
+    load(df)
+    print("done")
